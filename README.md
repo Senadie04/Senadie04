@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Senadie04
-- 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...software development
+- 👀 I’m interested in ...Learning new things
+- 🌱 I’m currently learning ...software engineering at University of Westminster
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... fernandosenadie@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 <!---
 Senadie04/Senadie04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
