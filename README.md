@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senadie04
-- 👀 I’m interested in ...Learning new things
+- 👀 I’m interested in ...learning new things
 - 🌱 I’m currently learning ...software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...senadief@gmail.com, fernandosenadie@gmail.com
